@@ -5,6 +5,5 @@ Think about it as a social media but instead of sharing your daily feeds. This o
 
 ## Idea
 
-Scrolling and feeds your brains full of foods and how you can make it by following recipe that people are sharing.
-Comment and review about their recipe. 
-
+Scrolling and feeds your brain with full of foods and how you can make it by following the recipe that people are sharing.
+Comment and review about their recipe. Make your own recipe and share your experience.
