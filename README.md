@@ -1,16 +1,10 @@
-# social_recipe_sharing
+# Social Recipe Sharing
 
-A new Flutter project.
+Think about it as a social media but instead of sharing your daily feeds. This one sharing your Recipe about the food.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Idea
 
-A few resources to get you started if this is your first Flutter project:
+Scrolling and feeds your brains full of foods and how you can make it by following recipe that people are sharing.
+Comment and review about their recipe. 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
